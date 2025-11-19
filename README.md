@@ -1,9 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+CAUAN+COELHO+BARRETO;🚀+DESENVOLVEDOR+BACKEND;⚡+INOVAÇÃO+E+CRIATIVIDADE&font=Fira%20Code)
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=00bfff&height=120&section=header" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=26&center=true&vCenter=true&width=900&duration=1800&pause=600&repeat=true&lines=>+Inicializando...;>+Carregando+perfil...;>+Bem-vindo,+Cauan!;>+Backend+Developer;>+Game+Developer+em+Evolução&font=Fira+Code)
 
 </div>
 
