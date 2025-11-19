@@ -47,7 +47,6 @@ Me tornar especialista em backend Java e também ampliar minhas habilidades em c
 <div align="center">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemaker/gamemaker-original.svg" />
 </div>
 
 ### 🗄️ Banco de Dados
